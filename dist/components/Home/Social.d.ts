@@ -1,4 +1,4 @@
-/// <reference types="react" />
-declare const Social: () => JSX.Element;
+import React from 'react';
+declare const Social: () => React.JSX.Element;
 export default Social;
 //# sourceMappingURL=Social.d.ts.map

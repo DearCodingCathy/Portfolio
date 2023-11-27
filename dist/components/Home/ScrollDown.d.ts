@@ -1,4 +1,4 @@
-/// <reference types="react" />
-declare function ScrollDown(): JSX.Element;
+import React from 'react';
+declare function ScrollDown(): React.JSX.Element;
 export default ScrollDown;
 //# sourceMappingURL=ScrollDown.d.ts.map
