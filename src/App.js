@@ -4,6 +4,7 @@ import Home from "./components/Home/Home.tsx";
 import About from "./components/About/About.tsx";
 import Skills from "./components/Skills/Skills";
 import Services from "./components/Services/Services";
+import Qualifications from "./components/Qualifications/Qualifications";
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
         <Home />
         <About />
         <Skills />
-        <Services/>
+        <Services />
+        <Qualifications />
       </main>
     </>
   );
