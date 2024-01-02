@@ -13,8 +13,8 @@ const Data = () => {
       <h3 className="home__subtitle">Software Engineer</h3>
       <p className="home__description">
         {" "}
-        I'm a creatiuve engineer based in New York, and I'm very passionate and
-        dedicated to my work
+        I'm a creative engineer based in New York. I'm very passionate and
+        dedicated learning and growth.
       </p>
 
       <a href="#contact" className="button button--flex">
