@@ -6,9 +6,9 @@ export const Data = [
   {
     id: 1,
     image: Image1,
-    title: "John Doe",
+    title: "Nathan Giordano",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Always positive, cheerful, and interested in learning, Catherine is a delight to work with!",
   },
   {
     id: 2,

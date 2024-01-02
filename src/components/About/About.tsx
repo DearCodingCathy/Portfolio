@@ -18,9 +18,7 @@ function About() {
           <Info />
 
           <p className="about__description">
-            Frontend developer, I create web pages with UI / UX user interface,
-            I have years of experience and many clients are happy withthe
-            projects carried out.
+            I am an experienced Frontend engineer from New York, and excited about creating stunning websites and excuting pixel perfect designs. My expertise lies in translating designs into fully functional websites, while utilizing my develoment skills to enhance and customize features. My goal is to craft visually appealing, user-friendly websites/features that provide a seamless browsing experience. 
           </p>
 
           <a download="" href={Resume} className="button button--flex">

@@ -46,7 +46,7 @@ const Contact = () => {
               </a>
             </div>
 
-            <div className="contact__card">
+            {/* <div className="contact__card">
               <i className="bx bx1-whatsapp contact__card-icon"></i>
               <h3 className="contact__card-title">Phone Number</h3>
               <span className="contact__card-data">718-704-9689</span>
@@ -55,9 +55,9 @@ const Contact = () => {
                 Write me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
-            </div>
+            </div> */}
 
-            <div className="contact__card">
+            {/* <div className="contact__card">
               <i className="bx bx1-messenger contact__card-icon"></i>
               <h3 className="contact__card-title">Messenger</h3>
               <span className="contact__card-data">user.fb123</span>
@@ -66,12 +66,12 @@ const Contact = () => {
                 Write me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
 
         <div className="contact__content">
-          <h3 className="contact__title">Write me your project</h3>
+          <h3 className="contact__title">Tell me about your project</h3>
 
           <form ref={form} onSubmit={sendEmail} className="contact__form">
             <div className="contact__form-div">
