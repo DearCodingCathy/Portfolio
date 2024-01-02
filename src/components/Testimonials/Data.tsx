@@ -13,14 +13,21 @@ export const Data = [
   {
     id: 2,
     image: Image2,
-    title: "Harry Clinton",
+    title: "Denise Bass",
     description:
       "A really good job, all aspects of the project were followed step by step and with good results.",
   },
   {
     id: 3,
     image: Image3,
-    title: "Sara Cill",
+    title: "Matt Stephens",
+    description:
+      "A really good job, all aspects of the project were followed step by step and with good results.",
+  },
+  {
+    id: 3,
+    image: Image3,
+    title: "Uma Moiseenko",
     description:
       "A really good job, all aspects of the project were followed step by step and with good results.",
   },
