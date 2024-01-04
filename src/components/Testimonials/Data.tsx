@@ -1,6 +1,9 @@
 import Image1 from "../../assets/testimonial1.png";
 import Image2 from "../../assets/testimonial2.png";
 import Image3 from "../../assets/testimonial3.png";
+import Image4 from "../../assets/testimonial4.png";
+
+
 
 export const Data = [
   {
@@ -22,13 +25,13 @@ export const Data = [
     image: Image3,
     title: "Matt Stephens",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Catherine is awesome! We worked together on a lot of projects, building new features and updating older ones, and Catherine always delivered great results!! Such an asset to our team!",
   },
   {
     id: 3,
-    image: Image3,
+    image: Image4,
     title: "Uma Moiseenko",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Catherine is a front-end engineer who is always willing to learn and improve. She is a dedicated worker who is passionate about her work and always strives to deliver the best results. Her attention to detail and ability to work well under pressure make her an asset to any team.",
   },
 ];
