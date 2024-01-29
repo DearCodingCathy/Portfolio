@@ -18,7 +18,7 @@ export const Data = [
     image: Image2,
     title: "Denise Bass",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Catherine is one of the most dedicated and pleasant developers I've ever had the privilege to work with",
   },
   {
     id: 3,
