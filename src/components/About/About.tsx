@@ -18,7 +18,7 @@ function About() {
           <Info />
 
           <p className="about__description">
-            I am an experienced Frontend engineer from New York, and excited about creating stunning websites and excuting pixel perfect designs. My expertise lies in translating designs into fully functional websites, while utilizing my develoment skills to enhance and customize features. My goal is to craft visually appealing, user-friendly websites/features that provide a seamless browsing experience. 
+            I am a detail-oriented and results-driven Frontend Engineer with over 3 years of experience, known for creating dynamic and responsive web applications using ReactJS and TypeScript. Adept at collaborating within cross-functional teams to deliver high-quality products within project timelines. Proven track record of optimizing projects for cross-browser and multi-platform compatibility. Demonstrates flexibility in adapting to new technologies and methodologies, ensuring an agile and innovative approach. Recognized for fostering a collaborative environment and effectively communicating with diverse stakeholders. Committed to achieving excellence in frontend development through creativity, adaptability, and a collaborative mindset. 
           </p>
 
           <a download="" href={Resume} className="button button--flex">
