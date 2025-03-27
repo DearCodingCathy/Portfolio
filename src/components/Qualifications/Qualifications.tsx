@@ -132,7 +132,7 @@ const Qualifications = () => {
                 </h3>
                 <span className="qualification__subtitle">Zola inc</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2022 - 2023
+                  <i className="uil uil-calendar-alt"></i> 2022 - 2024
                 </div>
               </div>
               <div>

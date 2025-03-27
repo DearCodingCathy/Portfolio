@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import AboutImg from "../../assets/profile1.jpg";
-import Resume from "../../assets/CatherineB_Teal_Resume.pdf";
+import Resume from "../../assets/CB_NYT-resume.pdf";
 import Info from "./Info";
 import { ReactComponent as Files } from "../../assets/files.svg";
 
